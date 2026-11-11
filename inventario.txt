@@ -16,9 +16,10 @@ Producto: Memoria USB
 Precio: 10000
 Cantidad: 25
 
-<<<<<<< HEAD
 Producto: monitor
 precio: 550000
 catidad: 5
-=======
->>>>>>> origin/modificarteclado
+
+Producto: impresora
+precio: 350000
+catidad: 3
