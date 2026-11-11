@@ -2,7 +2,7 @@ SISTEMA DE INVENTARIO
 
 Producto: Teclado
 Precio: 45000
-Cantidad: 10
+Cantidad: 20
 
 Producto: Mouse
 Precio: 30000
@@ -16,6 +16,9 @@ Producto: Memoria USB
 Precio: 10000
 Cantidad: 25
 
+<<<<<<< HEAD
 Producto: monitor
 precio: 550000
 catidad: 5
+=======
+>>>>>>> origin/modificarteclado
